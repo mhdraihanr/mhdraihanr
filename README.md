@@ -22,9 +22,6 @@ I'm a Fullstack Developer focused on building clean, functional, and user-friend
   <a href="https://mhdraihanr.my.id" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/mhdraihanr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
 </div>
 
  <hr/>
