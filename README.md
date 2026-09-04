@@ -29,8 +29,8 @@ I'm a Fullstack Developer focused on building clean, functional, and user-friend
 <h2 align="center">⚒️ Skills & Technologies ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,typescript,javascript,nodejs,html,css,python,cs,go,dotnet" />
-    <img src="https://skillicons.dev/icons?i=aws,gcp,supabase,docker,postgres,mongodb,mysql,postman,git,notion,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,vue,dotnet,laravel,tailwind,typescript,javascript,nodejs,html,css,python,cs,go" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,supabase,docker,postgres,mongodb,mysql,postman,git,notion,vscode,pnpm" /><br>
 </div>
 
 <br/>
