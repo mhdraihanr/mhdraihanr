@@ -1,5 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F70000&width=435&lines=What%E2%80%99s+up%3F+I%E2%80%99m+Raihan+!!" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F70000&size=28&center=true&vCenter=true&width=600&lines=What's+up%3F+I'm+Raihan!!"
+    alt="What's up? I'm Raihan!!"
+  />
 </h1>
 
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇮🇩</h3>
